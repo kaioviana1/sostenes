@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.card-1{
+    display: flex;
+    justify-content: center;
+
+
+    
+}
+.card{
+    background-color: cornflowerblue;
+    box-shadow: 20px;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+h2, h3, a{
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin: 0;
+}
+a{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color:transparent;
+}
